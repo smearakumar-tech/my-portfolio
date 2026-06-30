@@ -1,0 +1,19 @@
+# System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Local/Temporary Files
+*.log
+.agents/
+.gemini/
+scratch/
